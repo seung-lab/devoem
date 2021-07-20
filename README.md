@@ -4,7 +4,7 @@ devoEM: Dense Voxel Embeddings for EM Connectomics
 Coming soon...
 
 ## Citation
-[Lee et al. 2021](https://ieeexplore.ieee.org/document/9489304) 
+[Lee et al. 2021](https://ieeexplore.ieee.org/document/9489304) (Early Aceess)
 ```
 @ARTICLE{lee2021dense,
   author  = {Lee, Kisuk and Lu, Ran and Luther, Kyle and Seung, H. Sebastian},
