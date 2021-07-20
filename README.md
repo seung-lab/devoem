@@ -4,9 +4,19 @@ devoEM: Dense Voxel Embeddings for EM Connectomics
 Coming soon...
 
 ## Citation
-[Lee et al. 2021](https://www.embs.org/tmi/) 
+[Lee et al. 2021](https://ieeexplore.ieee.org/document/9489304) 
+```
+@ARTICLE{lee2021dense,
+  author  = {Lee, Kisuk and Lu, Ran and Luther, Kyle and Seung, H. Sebastian},
+  journal = {IEEE Transactions on Medical Imaging}, 
+  title   = {Learning and Segmenting Dense Voxel Embeddings for 3D Neuron Reconstruction}, 
+  year    = {2021},
+  volume  = {},
+  number  = {},
+  pages   = {1-1},
+  doi     = {10.1109/TMI.2021.3097826}}
+```
 
-Learning and Segmenting Dense Voxel Embeddings for 3D Neuron Reconstruction (To appear in IEEE Transactions on Medical Imaging)
 
 [Lee et al. 2019](https://arxiv.org/abs/1909.09872) (Preprint)
 ```
