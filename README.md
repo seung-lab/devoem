@@ -3,6 +3,9 @@ devoEM: Dense Voxel Embeddings for EM Connectomics
 
 Coming soon...
 
+## Papser
+[[Paper]](https://ieeexplore.ieee.org/document/9489304) [[Supp. Notes]](https://github.com/seung-lab/devoem/blob/main/manuscript/supp_note.pdf) [[Supp. Figures]](https://github.com/seung-lab/devoem/blob/main/manuscript/supp_fig.pdf)
+
 ## Citation
 [Lee et al. 2021](https://ieeexplore.ieee.org/document/9489304) (Early Aceess)
 ```
